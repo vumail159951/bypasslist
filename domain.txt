@@ -1,3 +1,13 @@
 cdnjs.cloudflare.com
 geo-pro.beatport.com
 geo-media.beatport.com
+www.google-analytics.com
+tr.snapchat.com
+vk.com
+beatport-app.quantummetric.com
+mc.yandex.com
+mc.yandex.ru
+pixel.tapad.com
+cdn.linkedin.oribi.io
+analytics.tiktok.com
+snap.licdn.com
